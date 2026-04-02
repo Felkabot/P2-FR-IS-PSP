@@ -6,8 +6,8 @@
     "data_size": 222,
     "nom_orig": "Noriko",
     "texte_orig": "Hello,[SP][U+1112]-senpai![SP]It's[SP]been[SP]a[SP]while\nsince[SP]Sister...[1205][001E][SP]since[SP]Anna-senpai[SP]from[SP]your\nclass[SP]quit[SP]school.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Noriko",
+    "texte_fr": "Bonjour, [U+1112] ! Ça fait un moment\ndepuis Sister...[1205][001E] depuis qu'Anna\nde votre classe a quitté le lycée."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 274,
     "nom_orig": "Noriko",
     "texte_orig": "I[SP]came[SP]to[SP]Sevens[SP]because[SP]I[SP]looked[SP]up[SP]to[SP]her.\nWhen[SP]she[SP]set[SP]a[SP]new[SP]high[SP]school[SP]record[SP]for\nwomen's[SP]sprinting,[SP]she[SP]was[SP]so[SP]excited!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Noriko",
+    "texte_fr": "Je suis venue à Seven grâce à elle.\nQuand elle a battu le record du lycée\nde sprint féminin, elle était tellement heureuse !"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 294,
     "nom_orig": "Noriko",
     "texte_orig": "But[SP]then...[1205][001E][SP]Oh,[SP]poor[SP]Sister...[1205][001E][SP]*sniff*[1205][001E]\nE-Eheheh...[SP]I[SP]shouldn't[SP]be[SP]crying[SP]like[SP]this,\nhuh?[SP]I[SP]ought[SP]to[SP]look[SP]after[SP]her[SP]running[SP]shoes!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Noriko",
+    "texte_fr": "Mais ensuite...[1205][001E] Pauvre Sister...[1205][001E] *sanglots*[1205][001E]\nE-Eheheh... Je devrais pas pleurer comme ça,\nhein ? Je dois veiller sur ses chaussures !"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 176,
     "nom_orig": "Male[SP]student",
     "texte_orig": "The[SP]students[SP]at[SP]Kasugayama[SP]High[SP]in[SP]Hirasaka\nhate[SP]the[SP]very[SP]sight[SP]of[SP]us.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiant",
+    "texte_fr": "Les élèves de Kasugayama à Hirasaka\nnous déteste."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 218,
     "nom_orig": "Male[SP]student",
     "texte_orig": "It's[SP]because[SP]they're[SP]nowhere[SP]close[SP]to[SP]us[SP]when\nit[SP]comes[SP]to[SP]popularity,[SP]grades,[SP]or[SP]athletics.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiant",
+    "texte_fr": "Normal, ils font pas le poids face à nous côté\npopularité, notes ou sport."
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 272,
     "nom_orig": "Male[SP]student",
     "texte_orig": "That's[SP]why[SP]they've[SP]been[SP]harassing[SP]a[SP]bunch[SP]of\nour[SP]students.[SP]What[SP]idiots...[SP]That's[SP]why[SP]they\ncall[SP]it[SP]Cuss[SP]High[SP]for[SP]short.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiant",
+    "texte_fr": "Du coup ils s'en prennent à plein de nos élèves.\nQuelle bande de merdes... C'est pour ça qu'on\nles appelle le Lycée Kakasu."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 318,
     "nom_orig": "Female[SP]student",
     "texte_orig": "The[SP]shoes[SP]Noriko[SP]is[SP]taking[SP]care[SP]of[SP]are[SP]Anna-\nsenpai's.[SP]She[SP]insists[SP]Senpai[SP]is[SP]coming[SP]back...[1205][001E]\nShe's[SP]been[SP]looking[SP]all[SP]over[SP]for[SP]her[SP]at[SP]night.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiante",
+    "texte_fr": "Les chaussures que Noriko garde sont celles\nd'Anna. Elle est sûr qu'elle va revenir...[1205][001E]\nElle la cherche partout la nuit."
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 272,
     "nom_orig": "Female[SP]student",
     "texte_orig": "[U+1112]-senpai...[SP]If[SP]you[SP]see[SP]Anna-senpai,\nplease[SP]tell[SP]her[SP]not[SP]to[SP]throw[SP]her[SP]gifts[SP]away.\nIt[SP]hurts[SP]to[SP]see[SP]Noriko[SP]like[SP]this...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiante",
+    "texte_fr": "[U+1112]-senpai... Si vous voyez Anna,\ndites-lui de ne pas jeter ses cadeaux.\nÇa fait mal de voir Noriko comme ça..."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 162,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I[SP]wonder[SP]if[SP]it's[SP]true...[1205][001E][SP]Hm?[SP]I[SP]meant[SP]the\nJoker[SP]Game.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiant bandé",
+    "texte_fr": "Je me demande si c'est vrai...[1205][001E] Hm ? Je parlais\ndu Joker Game."
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 330,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I[SP]heard[SP]a[SP]friend[SP]of[SP]a[SP]friend[SP]upped[SP]his[SP]grades[SP]with\nthat[SP]method.[SP]If[SP]it[SP]can[SP]work[SP]miracles[SP]like[SP]that,\nI[SP]wonder[SP]if[SP]it[SP]can[SP]cure[SP]this[SP]disease...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiant bandé",
+    "texte_fr": "J'ai entendu dire que l'ami d'un ami a amélioré\nses notes avec ça. Si c'est vrai,\npeut-être que ça peut guérir ma maladie..."
   },
   {
     "id": 10,
@@ -106,7 +106,7 @@
     "data_size": 332,
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Heh...[SP]You[SP]can't[SP]tell[SP]who[SP]I[SP]am[SP]like[SP]this,[SP]huh?\nFor[SP]all[SP]you[SP]know[SP]I'm[SP]the[SP]world's[SP]cutest[SP]girl.[1205][001E]\nHehe...[SP]Alas,[SP]I'm[SP]just[SP]an[SP]ugly[SP]duckling...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiante bandée",
+    "texte_fr": "Heh... Tu peux pas savoir qui je suis comme ça, hein ?\nPeut-être que je suis la plus belle fille du monde.[1205][001E]\nHehe... Hélas, je suis juste un vilain petit canard..."
   }
 ]
